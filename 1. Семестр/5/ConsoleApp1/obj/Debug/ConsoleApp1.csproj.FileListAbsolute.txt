@@ -1,0 +1,20 @@
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\ЗИНИС\5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\1. Семестр\5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
